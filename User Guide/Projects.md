@@ -28,7 +28,7 @@ Or, click **Projects** from the left side navigation bar.
 
 To **Create project**:
 
-**Step 1:**	Click **Create project**. The projects page is displayed. 
+**Step 1:**	Click **Create** button and click **New project**. The projects page is displayed. 
 
 **Note:** *For your first project, you will see this page as shown below.*
 
@@ -44,7 +44,7 @@ To **Create project**:
 
 ![Image not Available](/assets/Fig34.png)
 
-Click **Create**. The newly created project appears in the list of project in the Project page.
+Click **Create**. The newly created project is shown in project details page.
 
 ![Image not Available](/assets/Fig51a.png)
 
