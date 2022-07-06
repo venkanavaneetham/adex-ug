@@ -627,7 +627,7 @@ After creating a project, create your first topic. The **My topics** tab is only
 
 To **Create topic**:
 
-**Step 1:** Navigate to **Projects** page > **My topics** tab. Click **Create topic**.
+**Step 1:** Navigate to **Projects** page > Click **Project name** > **My topics** tab. Click **Create topic**.
 
 ![Image not Available](/assets/Fig43.png)
 
@@ -660,9 +660,6 @@ To **Create topic**:
 - **Is approval needed for subscription requests?**
   - **Yes** – Approval is needed from publisher before you subscribe 
   - **No** – Allows free access to the topic and no approval needed from the publisher
-- **Also publish on ADEX On-prem**
-  - **Yes** - you can select the on-prem projects
-  - **No** - no On-prem projects for this topic
 
 ![Image not Available](/assets/Fig47.png)
 
